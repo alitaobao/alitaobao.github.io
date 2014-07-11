@@ -87,6 +87,8 @@ footer {
   text-align: center; }
   footer * {
     color: #797979; }
+  footer a {
+    font-size: 12px; }
 
 #container {
   *zoom: 1;

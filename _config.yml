@@ -1,5 +1,7 @@
-title:            我的空间
-description:      alitaobao.
+title:            网购导航
+keywords:         网购导航
+description:      alitaobao
+author:           alitaobao
 url:              # Site url.
 signoff:          # Your name.
 disqus_shortname: # disqus comment thread for post header options. ( leave blank if unwanted. )
@@ -12,6 +14,7 @@ links:
   - name:         Blog
     url:          /
     external:     false
+
 highlighter:      pygments
 permalink:        pretty
 markdown:         redcarpet
